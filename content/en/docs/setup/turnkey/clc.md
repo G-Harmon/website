@@ -2,8 +2,6 @@
 title: Running Kubernetes on CenturyLink Cloud
 ---
 
-{: toc}
-
 These scripts handle the creation, deletion and expansion of Kubernetes clusters on CenturyLink Cloud.
 
 You can accomplish all these tasks with a single command. We have made the Ansible playbooks used to perform these tasks available [here](https://github.com/CenturyLinkCloud/adm-kubernetes-on-clc/blob/master/ansible/README.md).
